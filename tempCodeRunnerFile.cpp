@@ -1,0 +1,1 @@
+    adamOptimization(data, gradient, laplace);
